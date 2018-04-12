@@ -4,7 +4,6 @@ import (
 	"errors"
 	"log"
 
-	"github.com/cli99/lambda-go-samples"
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambda"
 )
